@@ -1,4 +1,6 @@
-Projeto do 2°BIMESTRE  da diciplica Desenvolvimento Mobile lecionada pelo professor Otavio Lube.
+Projeto do 2°BIMESTRE de Desenvolvimento Mobile
+Aluno: DIOGO OLIVEIRA SANTOS
+Matrícula: 202311226
  
  
  npm install --legacy-peer-deps
